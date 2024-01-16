@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -25,4 +26,15 @@ body {
     font-size: 25px;
     margin: 20px 0;
     color: #004273;
+  }
+.container button {
+    padding: 5px;
+    width: 30%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    background: #004273;
+    color: white;
+    margin: 10px 0 0 0;
   }
