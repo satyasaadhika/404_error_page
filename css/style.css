@@ -39,3 +39,17 @@ body {
     color: white;
     margin: 10px 0 0 0;
   }
+  
+  /*For Responsiveness*/
+@media (max-width: 760px) {
+    .container img {
+      width: 100%;
+    }
+    .container h1 {
+      font-size: 33px;
+    }
+    .container p {
+      font-size: 15px;
+      padding: 0 10px;
+    }
+  }
