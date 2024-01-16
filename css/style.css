@@ -12,3 +12,6 @@ body {
     align-items: center;
     background-color: #e8e8e8;
   }
+.container {
+    text-align: center;
+  }
